@@ -92,11 +92,11 @@ The pre-trained weights are provided blow:
 
 | Benchmark | Split |  Weights | HOTA | MOTA | IDF1 |  IDs  |
 |:---------:|:-----:|:--------:|:----:|:----:|:----:|:-----:|
-|   MOT17   |  test | [link]() | 64.5 | 80.9 | 78.8 |  1590 |
-|   MOT20   |  test | [link]() | 62.7 | 76.7 | 76.5 |  1552 |
-|  VisDrone |  test | [link]() |   -  | 55.9 | 70.0 |  1282 |
-|  BDD100K  |  val  | [link]() | 58.7 | 62.9 | 68.9 | 16191 |
-|  BDD100K  |  test | [link]() | 58.3 | 63.0 | 69.2 | 29985 |
+|   MOT17   |  test | [link](https://drive.google.com/drive/folders/1MTtu_gbvK7akKjr3cLNlX28L80fcSFQV?usp=drive_link) | 64.5 | 80.9 | 78.8 |  1590 |
+|   MOT20   |  test | [link](https://drive.google.com/drive/folders/1MTtu_gbvK7akKjr3cLNlX28L80fcSFQV?usp=drive_link) | 62.7 | 76.7 | 76.5 |  1552 |
+|  VisDrone |  test | [link](https://drive.google.com/drive/folders/1MTtu_gbvK7akKjr3cLNlX28L80fcSFQV?usp=drive_link) |   -  | 55.9 | 70.0 |  1282 |
+|  BDD100K  |  val  | [link](https://drive.google.com/drive/folders/1MTtu_gbvK7akKjr3cLNlX28L80fcSFQV?usp=drive_link) | 58.7 | 62.9 | 68.9 | 16191 |
+|  BDD100K  |  test | [link](https://drive.google.com/drive/folders/1MTtu_gbvK7akKjr3cLNlX28L80fcSFQV?usp=drive_link) | 58.3 | 63.0 | 69.2 | 29985 |
 
 Since we adopt several tracking tricks from [BoT-SORT](https://github.com/NirAharon/BoT-SORT), some of the results are slightly different from the performance reported in the paper.
 
