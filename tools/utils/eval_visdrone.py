@@ -79,7 +79,7 @@ def clean_gt_and_ts(gt, ts):
 
 
 # evaluate MOTA
-results_folder = 'YYOLOX_outputs/yolox_x_u2mot_visdrone/track_res'
+results_folder = 'YOLOX_outputs/yolox_x_u2mot_visdrone/track_res'
 mm.lap.default_solver = 'lap'
 
 gt_type = '_test_dev'
